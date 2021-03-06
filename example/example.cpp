@@ -5,6 +5,7 @@
 // spdlog usage example
 
 #include <cstdio>
+#inlclude <iostream>
 
 void load_levels_example();
 void stdout_logger_example();
